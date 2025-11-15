@@ -131,8 +131,8 @@ startTime = time.time()
 
 verbose = False
 
-sourceFilename = r'LCSC BOM H25.xlsx'
-outputFilename = r'output.csv'
+sourceFilename = r'LCSC BOM H26.xlsx'
+outputFilename = r'MRT_H26_Nov14_LCSCBulkOrder.csv'
 unavailableFilename = r'unavailable.csv'
 
 sheetStart = 1 # Must skip sheet 1 (info sheet)
